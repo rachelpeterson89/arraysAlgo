@@ -1,7 +1,7 @@
 # arraysAlgo
-Coding Dojo Assignment
+## Coding Dojo Assignment
 
-Algorithm Practice - Arrays
+### Algorithm Practice - Arrays
 
 It's now time to practice writing your own algorithms using arrays!  Create an algorithm for each of the challenges below.  Make sure that you run your code to ensure your output is matching the provided expected output.   One you are done, submit your .js file with the solution.
 
